@@ -19,9 +19,7 @@ Esse projeto te leva para um túnel do tempo no mundo do futebol! É uma aplica�
 
 **Como usar este projeto:**
 
-1. **Clone o repositório:** Faça um clone deste repositório para sua máquina local.
-2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador.
-3. **Comece a pesquisar:** Divirta-se explorando a vida e carreira dos seus jogadores favoritos!
+1.Acesse este link (https://soccer-icons.vercel.app/)
 
 **Contribuindo para o projeto:**
 
