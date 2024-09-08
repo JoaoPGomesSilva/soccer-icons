@@ -1,6 +1,3 @@
-## Vamos criar um README.md divertido e informativo para o seu projeto!
-
-**Sugestão de README.md:**
 
 ### **⚽️ Legends of the Game: Sua enciclopédia pessoal de craques do futebol! ⚽️**
 
@@ -36,20 +33,4 @@ Agradeço ao curso Alura pela oportunidade de aprender e desenvolver este projet
 
 **Vamos juntos celebrar a história do futebol!** 
 
-## **## Dicas Extras:**
 
-* **GIFs e imagens:** Adicione GIFs animados ou imagens dos jogadores para deixar a página mais divertida e interativa.
-* **Compartilhamento:** Inclua botões de compartilhamento nas redes sociais para que seus amigos também possam conhecer a aplicação.
-* **Responsividade:** Adapte a aplicação para funcionar em diferentes dispositivos (celular, tablet, computador).
-* **Funcionalidades extras:** Implemente filtros de pesquisa (por posição, nacionalidade, década), um sistema de favoritos ou até mesmo um modo escuro.
-
-**## Personalize o README:**
-
-* **Adicione mais detalhes:** Conte um pouco mais sobre a sua motivação para criar o projeto, as dificuldades que você encontrou e como as superou.
-* **Use emojis:** Os emojis ajudam a deixar o README mais divertido e fácil de ler.
-* **Crie uma seção de FAQ:** Responda às perguntas mais comuns sobre a aplicação.
-* **Inclua um banner:** Crie um banner personalizado para o seu projeto e coloque no início do README.
-
-**Lembre-se:** O README é o cartão de visitas do seu projeto. Faça dele um lugar agradável e informativo para que outras pessoas queiram conhecer o seu trabalho!
-
-**Gostou da sugestão? Posso te ajudar com algo mais?**
